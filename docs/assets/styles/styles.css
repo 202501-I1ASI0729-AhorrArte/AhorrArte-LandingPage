@@ -107,7 +107,7 @@ body, html {
       }
     
       /* Oculta los elementos del menú en pantallas pequeñas */
-      .nav-items, .auth {
+      .nav-items, .auth, .image-large-purple, .image-small-blue, .image-small-green, .image-medium-blue, .image-large-pink, .image-large-purple-second, .image-medium-green, .image-extra-large-pink {
         display: none;
       }
     
@@ -164,7 +164,7 @@ body, html {
     
     .cta-button {
       left: 43%;
-      top: 58%;
+      top: 70%;
       background: white;
       border-radius: 26px;
       color: #171A1F;
